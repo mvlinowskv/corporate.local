@@ -1,0 +1,24 @@
+@media (min-width:992px) {
+    .box-image {
+        height: 47rem;
+        width: 30rem;
+        max-height: 50rem;
+        object-fit: cover;
+
+        //600 i 400
+    }
+
+    .slide-click {
+        width: 30rem;
+        height: 47rem;
+    }
+
+    .slider {
+        width: 30rem;
+        height: 48rem;
+    }
+
+    .position-sm-absolute {
+        position: static;
+    }
+}

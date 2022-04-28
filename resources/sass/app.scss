@@ -1,0 +1,38 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+
+//sections
+@import "sections/main-section";
+@import "sections/main-header";
+@import "sections/corporate-fixed-section";
+@import "sections/people-section-animate";
+@import "sections/container-elements";
+@import "sections/container-floating-object";
+@import "sections/backgrounds_pages";
+
+
+
+//layout
+@import "sizes-objects";
+@import "layout";
+@import "colors";
+@import "background-feautures";
+@import "blog";
+
+
+//fonts
+@import "fonts/sizes";
+@import "fonts/weights";
+
+/*media query*/
+@import "media_queries/min_width_576";
+@import "media_queries/min_width_768";
+@import "media_queries/min-width_992";

@@ -1,0 +1,17 @@
+.background-corporate {
+    height: 450px;
+    background-image: url(/img/pexels-dellon-thomas-2997636.jpg);
+}
+
+.background-dark {
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+.carousel-control-prev, .carousel-control-next {
+    color: #000;
+    text-align: center;
+    opacity: 1;
+    background: none;
+    border: none;
+    font-size: 2rem;
+}

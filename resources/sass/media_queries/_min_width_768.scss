@@ -1,0 +1,17 @@
+@media (min-width:768px) {
+    .sm-row {
+        width: auto;
+        display: flex;
+        flex-wrap: inherit;
+        margin-right: inherit;
+        margin-left: inherit;
+    }
+
+    .bg-section-circle {
+        width: calc(10rem + 26vw);
+    }
+    .bg-single-post-circle {
+        width: calc(25rem + 26vw);
+        
+    }
+}

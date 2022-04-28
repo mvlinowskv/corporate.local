@@ -1,0 +1,39 @@
+@media (min-width:576px) {
+        
+    .small-img {
+        height: auto;
+    }
+
+    .img-small {
+        object-fit: cover;
+        height: 400px;
+        width: calc(2rem + 3vw);
+
+    }
+
+    .box-image {
+        height: 520px;
+        width: 300px;
+        max-height: 600px;
+        object-fit: cover;
+
+        //600 i 400
+    }
+
+    .slider {
+        height: 500px;
+        width: 25rem
+    }
+
+    .h-xs-30vh {
+        height: 84vh;
+    }
+
+    .container-small-images {
+        width: 100%;
+    }
+
+    .floating-object {
+        height: 500px;
+    }
+}

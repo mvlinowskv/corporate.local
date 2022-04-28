@@ -1,0 +1,78 @@
+$border-radius-15: 15rem;
+
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-section-circle {
+    height: auto;
+    
+}
+
+.bg-section-circle-bottom-right {
+    right:0;
+    bottom: 0;
+    border-radius: $border-radius-15 0 0 0rem;
+}
+.bg-section-circle-bottom-left {
+    right:0;
+    bottom: 0;
+    border-radius: 0 $border-radius-15 0 0rem;
+}
+
+.bg-section-circle-top-left {
+    top: 0;
+    left: 0;
+    border-radius: 0rem 0rem $border-radius-15 0rem;
+}
+
+.bg-section-circle-top-right {
+    top: 0;
+    right: 0;
+    border-radius: 0rem 0rem 0rem $border-radius-15;
+}
+
+.z-index-5 {
+    z-index: 5;
+}
+
+.bottom-0 {
+    bottom: 0;
+}
+
+.h-80vh {
+    height: 80vh;
+}
+
+.fadeOut {
+    opacity: 0.5;
+}
+
+.sm-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.h-xs-30vh {
+    height: 20rem;
+}
+
+.w-100vw {
+    width: 100vw;
+}
+
+.w-30vw {
+    width: 30vw;
+}
+
+.w-70vw {
+    width: 70vw;
+}
+.position-sm-absolute {
+    position: absolute;
+}
+
+.form-control {
+    width: 75%;
+    float: right;
+}

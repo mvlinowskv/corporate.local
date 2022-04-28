@@ -1,0 +1,28 @@
+.box-image {
+    max-height: 350px;
+    top: 0rem;
+    opacity: 0;
+}
+
+.img-small {
+    object-fit: cover;
+    // height: 200px;
+    // width: 200px;
+    height: 64px;
+    object-position: center;
+}
+
+.slide-click {
+    height: 25rem;
+    width: 25rem;
+    position: absolute;
+}
+
+.slider {
+    width: 16rem;
+    height: 20rem;
+}
+
+.container-small-images {
+    width: 18rem;
+}

@@ -1,0 +1,28 @@
+$font-menu: calc(0.6rem + 0.5vw);
+
+.big-size-font {
+    font-size: calc(2rem + 1.5vw);
+}
+
+.medium-size-font {
+    font-size: calc(0.4rem + 0.5vw);
+}
+
+.big-size-font-slider {
+    font-size: calc(1.5rem + 1.5vw);
+}
+.font-07-05 {
+    font-size: calc(0.7rem + 0.5vw);
+}
+
+.font-menu {
+    font-size: $font-menu;
+}
+
+.font-blog-h {
+    font-size: calc(0.6rem + 1.5vw);
+}
+
+.medium-size-blog {
+    font-size: calc(0.5rem + 0.6vw);
+}
